@@ -6,6 +6,33 @@ header {
   background-size: 100% 100%, cover;
 }
 
+.menu{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 44px;
+  height: 60px;
+  padding-top: 21px;
+  background-color: rgba(0, 0, 0, 0.1);
+  color: white;
+}
+.menu a{
+    color: rgba(255, 255, 255, 1);
+    margin-left: 21px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.right-view{
+    color: rgba(255, 255, 255, 1);
+    float:right;
+    margin-right: 21px;
+    text-decoration: none;
+}
+.menu a:hover{
+  color: rgba(255, 255, 255, 0.4);
+}
+
 .profile{
   margin-left:44px;
   margin-right: 44px;
@@ -16,8 +43,7 @@ header {
 }
 
 #stack-overflow, #linkedin, #youtube{
-   display:inline;
-   padding: 10px 10px;
+  padding-left: 24px;
 }
 .profile a{
   color: white;
