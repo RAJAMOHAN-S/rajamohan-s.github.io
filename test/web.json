@@ -1,1 +1,227 @@
-{"fruits": [{"name": "Apple","colour": "red","weight": 14.0},{"name": "Coconut","colour": "green","weight": 18.0},{"name": "Banana","colour": "yellow","weight": 24.0},{"name": "Orange","colour": "orange","weight": 18.0}]}
+[
+    {
+      "_id": "5e5eddf49f90814640121266",
+      "index": 0,
+      "guid": "9fd175c9-6b9a-4909-bfd0-ca3f37881c1d",
+      "isActive": true,
+      "balance": "$3,007.49",
+      "picture": "http://placehold.it/32x32",
+      "age": 39,
+      "eyeColor": "green",
+      "name": "Glass Erickson",
+      "gender": "male",
+      "company": "IDEGO",
+      "email": "glasserickson@idego.com",
+      "phone": "+1 (832) 579-3495",
+      "address": "971 Claver Place, Loyalhanna, Alabama, 537",
+      "about": "Reprehenderit sit dolor in excepteur velit incididunt amet consectetur elit enim cillum. Officia voluptate proident cupidatat fugiat proident culpa ipsum voluptate amet occaecat nisi aliquip adipisicing. Nisi excepteur non magna sunt incididunt duis est amet amet laboris do. Excepteur amet irure sunt elit occaecat adipisicing sit mollit incididunt sit Lorem ad ut esse.\r\n",
+      "registered": "2019-07-27T10:22:56 -06:-30",
+      "latitude": -74.001447,
+      "longitude": 142.356252,
+      "tags": [
+        "occaecat",
+        "sunt",
+        "pariatur",
+        "anim",
+        "officia",
+        "ullamco",
+        "sit"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Darlene Oneil"
+        },
+        {
+          "id": 1,
+          "name": "Adeline Greer"
+        },
+        {
+          "id": 2,
+          "name": "Hunt Hood"
+        }
+      ],
+      "greeting": "Hello, Glass Erickson! You have 2 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "5e5eddf4ea4db8d2ec392914",
+      "index": 1,
+      "guid": "803701d8-cb66-492f-b456-f4af4ff05d2d",
+      "isActive": true,
+      "balance": "$3,111.92",
+      "picture": "http://placehold.it/32x32",
+      "age": 26,
+      "eyeColor": "brown",
+      "name": "Jerri Ball",
+      "gender": "female",
+      "company": "SENMEI",
+      "email": "jerriball@senmei.com",
+      "phone": "+1 (972) 591-3305",
+      "address": "930 Onderdonk Avenue, Alden, Michigan, 9881",
+      "about": "Irure ullamco anim in cillum amet sint cillum duis velit ut dolore. Lorem cupidatat culpa quis enim Lorem esse non consectetur veniam quis est anim. Commodo duis aliqua eiusmod anim dolor excepteur. Ipsum veniam ex sunt duis qui. Incididunt pariatur occaecat fugiat excepteur eu duis pariatur est occaecat veniam pariatur cillum. Commodo esse quis anim incididunt duis velit sunt pariatur ipsum esse excepteur labore id aliquip. Et esse voluptate sit et dolore.\r\n",
+      "registered": "2018-03-13T06:38:14 -06:-30",
+      "latitude": 45.982357,
+      "longitude": -82.164467,
+      "tags": [
+        "laborum",
+        "incididunt",
+        "commodo",
+        "culpa",
+        "minim",
+        "consectetur",
+        "non"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Irma Harrington"
+        },
+        {
+          "id": 1,
+          "name": "Jolene Franks"
+        },
+        {
+          "id": 2,
+          "name": "Sofia Trevino"
+        }
+      ],
+      "greeting": "Hello, Jerri Ball! You have 3 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "5e5eddf47128614e34f8ddab",
+      "index": 2,
+      "guid": "ae300d02-cd10-4dc0-93a5-048cde33c754",
+      "isActive": true,
+      "balance": "$3,372.92",
+      "picture": "http://placehold.it/32x32",
+      "age": 26,
+      "eyeColor": "blue",
+      "name": "Williams Hess",
+      "gender": "male",
+      "company": "BUZZMAKER",
+      "email": "williamshess@buzzmaker.com",
+      "phone": "+1 (856) 473-2458",
+      "address": "105 Cox Place, Yorklyn, American Samoa, 766",
+      "about": "Dolore enim et sint commodo ullamco do aliquip dolor Lorem esse laborum velit cillum et. Nulla cupidatat ullamco fugiat ullamco non aliquip. Anim consectetur nostrud occaecat nulla reprehenderit adipisicing eu in nulla officia commodo elit ex. Consectetur incididunt ut aute aliqua incididunt. Dolor exercitation nostrud in id reprehenderit occaecat. Lorem ut qui nisi sint eiusmod cillum est.\r\n",
+      "registered": "2016-07-27T09:47:11 -06:-30",
+      "latitude": -63.278739,
+      "longitude": -34.064477,
+      "tags": [
+        "aute",
+        "ea",
+        "id",
+        "esse",
+        "amet",
+        "duis",
+        "esse"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Connie Hodges"
+        },
+        {
+          "id": 1,
+          "name": "Underwood Hughes"
+        },
+        {
+          "id": 2,
+          "name": "Shawna Reid"
+        }
+      ],
+      "greeting": "Hello, Williams Hess! You have 4 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "5e5eddf4c1538d89fc807551",
+      "index": 3,
+      "guid": "74455053-8908-41bc-b4a1-4ac50cd90014",
+      "isActive": true,
+      "balance": "$3,118.92",
+      "picture": "http://placehold.it/32x32",
+      "age": 24,
+      "eyeColor": "brown",
+      "name": "Knowles Walker",
+      "gender": "male",
+      "company": "OMATOM",
+      "email": "knowleswalker@omatom.com",
+      "phone": "+1 (961) 476-3061",
+      "address": "871 Brooklyn Road, Duryea, Maine, 4004",
+      "about": "Nulla id anim qui laborum fugiat mollit sit non elit aliqua velit labore incididunt aliqua. Officia laboris laboris voluptate consectetur proident est voluptate aute excepteur. Proident labore consectetur aliqua commodo minim ut incididunt. Incididunt ad aliqua fugiat et veniam labore labore nulla eu. Occaecat ipsum culpa ullamco nisi duis eu consectetur ad. Pariatur ea laborum exercitation duis fugiat est ullamco incididunt officia nisi exercitation adipisicing.\r\n",
+      "registered": "2015-08-05T08:30:36 -06:-30",
+      "latitude": 50.393204,
+      "longitude": 104.678992,
+      "tags": [
+        "aute",
+        "aliquip",
+        "aliquip",
+        "ad",
+        "sint",
+        "Lorem",
+        "nisi"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Mai Franco"
+        },
+        {
+          "id": 1,
+          "name": "Lynn Case"
+        },
+        {
+          "id": 2,
+          "name": "Beatrice Weber"
+        }
+      ],
+      "greeting": "Hello, Knowles Walker! You have 6 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "5e5eddf41de72217b3f1e8c9",
+      "index": 4,
+      "guid": "eaee10cb-ac27-44b3-90c4-981d923cd58f",
+      "isActive": false,
+      "balance": "$3,238.73",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "blue",
+      "name": "Watkins Paul",
+      "gender": "male",
+      "company": "MEDALERT",
+      "email": "watkinspaul@medalert.com",
+      "phone": "+1 (877) 550-2114",
+      "address": "520 McKibben Street, Cloverdale, South Carolina, 2879",
+      "about": "Cupidatat ea nulla velit in nulla tempor Lorem aliquip ullamco sint exercitation consectetur commodo ullamco. Aliqua est consequat anim esse quis aliquip sunt cillum ea nisi proident. Enim ut consectetur proident qui nostrud. Anim ad quis nisi proident ipsum esse in do qui commodo esse fugiat do.\r\n",
+      "registered": "2016-07-13T04:44:06 -06:-30",
+      "latitude": -67.958223,
+      "longitude": 93.254559,
+      "tags": [
+        "irure",
+        "nostrud",
+        "ipsum",
+        "eiusmod",
+        "esse",
+        "dolore",
+        "excepteur"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Helga Scott"
+        },
+        {
+          "id": 1,
+          "name": "Tyson Hopkins"
+        },
+        {
+          "id": 2,
+          "name": "Cecelia Carter"
+        }
+      ],
+      "greeting": "Hello, Watkins Paul! You have 10 unread messages.",
+      "favoriteFruit": "strawberry"
+    }
+  ]
