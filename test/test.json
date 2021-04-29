@@ -1,0 +1,11 @@
+{
+    "resultCount": 1,
+    "results": [
+        {
+            "artworkUrl512": "https://images.pexels.com/photos/6951217/pexels-photo-6951217.jpeg?crop=entropy&cs=srgb&dl=pexels-rajamohan-s-6951217.jpg&fit=crop&fm=jpg&h=480&w=640"
+            "trackName": "A New App Version",
+            "releaseNotes": "In preparation for GDPR we have made a few changes. You now have the option to export your data, as well as unsubscribe from promotions easily from within the app.We were also able to find a few bugs lingering, so we squashed those too",
+            "version": "9.9"
+        }
+    ]
+}
